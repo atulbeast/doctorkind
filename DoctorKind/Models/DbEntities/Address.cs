@@ -15,6 +15,6 @@ namespace DoctorKind.Models.DbEntities
         public long StateId {get;set;}
         public long CityId {get;set;}
         public string Country {get;set;}
-        public long ShopId { get; set; }
+        
     }
 }
